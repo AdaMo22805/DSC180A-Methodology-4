@@ -7,7 +7,7 @@ Email: admo@ucsd.edu
 
 Course: B01 - NLP Credit Score Development
 
-Team members: Kyle Nero, Daniel Mathew
+Mentors: Kyle Nero, Daniel Mathew
 
 ## Answers
 **What is the most interesting topic covered in your domain this quarter?**
